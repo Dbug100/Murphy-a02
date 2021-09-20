@@ -6,10 +6,12 @@ package assignments.exercise;
 
 
 /*
- * Create String to store Name
- * Print Statement asking for name
- * Take user input into String name
- * Print final output with the name of the User
+ * Create Int to store Num pizza, num people,
+ * num slices
+ * Print Statement asking for user info
+ * Take user input into ints
+ * divide the slices per person and take the remainder
+ * Print final output using the values from user
  */
 import java.util.Scanner;
 public class Solution08 {
